@@ -8,4 +8,4 @@ We present R-Drive, a unified data storage and sharing framework for MEC environ
 - R-Drive presents a data consistency model that is practical and observable for disconnected mobile edge.
 - R-Drive supports inter-edge device mobility and data offloading.
 
-Code: private code not available for public use, please contact msagor@tamu.edu(Student)and stoleru@tamu.edu (Principal Investigator/Advisor) for 
+Code: private code not available for public use, please contact msagor@tamu.edu(Student) and stoleru@tamu.edu (Principal Investigator/Advisor) for access to the source code.
